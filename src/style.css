@@ -1,0 +1,36 @@
+p {
+    color: rgb(44, 40, 33);
+    width: 500px;
+}
+
+
+body {
+    background-color: #bdcfc8;
+}
+
+div {
+    margin-right: 200px;
+    margin-left: 650px;
+    margin-top: 40px;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    margin-left: 650px;
+
+}
+
+h4 {
+    color: rgb(65, 50, 50);
+
+}
+
+h3 {
+    color: rgb(114, 11, 54);
+
+}
+
+p {
+    width: 500px;
+    margin-left: 650px;
+}
